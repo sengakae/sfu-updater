@@ -1,0 +1,3922 @@
+[
+    {
+        "dept": "ARCH",
+        "number": "100",
+        "section": "C100",
+        "title": "Ancient Peoples and Places",
+        "bookTitle": "World Prehistory &amp; Archaeology: Pathways Through Time (2015), Chazan",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780205896707"
+    },
+    {
+        "dept": "ARCH",
+        "number": "131",
+        "section": "C100",
+        "title": "Human Origins",
+        "bookTitle": "Exploring Biological Anthropology: The Essentials. (2nd Custom Ed.)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323423776"
+    },
+    {
+        "dept": "ARCH",
+        "number": "131",
+        "section": "C200",
+        "title": "Human Origins",
+        "bookTitle": "Exploring Biological Anthropology: The Essentials. (2nd Custom Ed.)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323423776"
+    },
+    {
+        "dept": "ARCH",
+        "number": "301",
+        "section": "C100",
+        "title": "Ancient Visual Art",
+        "bookTitle": "Art of the Northwest Coast (2006), Jonaitis",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781553652106"
+    },
+    {
+        "dept": "ARCH",
+        "number": "301",
+        "section": "C100",
+        "title": "Ancient Visual Art",
+        "bookTitle": "Non-Western Art (2000), Mackenzie",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780139000362"
+    },
+    {
+        "dept": "BISC",
+        "number": "101",
+        "section": "D100",
+        "title": "General Biology",
+        "bookTitle": "&ldquo;Biological Science&rdquo; by Scott Freeman, Mike Harrington and Joan Sharp. Second Canadian Edition. 2014. Pearson Canada. Either hardcover or loose-leaf versions are available.A peer instruction device or access subscription will be required to purchase; details will be provided in the first week of class.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321788719"
+    },
+    {
+        "dept": "BISC",
+        "number": "113",
+        "section": "C100",
+        "title": "Biology in Everyday Life",
+        "bookTitle": "Biology for the Informed Citizen with Physiology (2014), Bozzone &amp; Green",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195381993"
+    },
+    {
+        "dept": "BISC",
+        "number": "202",
+        "section": "C100",
+        "title": "Genetics",
+        "bookTitle": "Intro to Genetic Analysis (11th Ed. 2015), Griffiths et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781464188046"
+    },
+    {
+        "dept": "BISC",
+        "number": "371",
+        "section": "D100",
+        "title": "Special Topics in Biology for Non-majors",
+        "bookTitle": "The Man Who Found Time by Jack Repchuk, 2003. Perseus Publishing, Cambridge MA*Not currentlly available atthe bookstore. Copies can be bought from Amazon: LINK",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "073820692"
+    },
+    {
+        "dept": "BPK",
+        "number": "105",
+        "section": "C100",
+        "title": "Fundamentals of Human Structure and Function",
+        "bookTitle": "Seeley's Essentials of Anatomy and Physiology (9th Ed.) 2016, Van Putte et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781259677120"
+    },
+    {
+        "dept": "BPK",
+        "number": "105",
+        "section": "C200",
+        "title": "Fundamentals of Human Structure and Function",
+        "bookTitle": "Seeley's Essentials of Anatomy and Physiology (9th Ed.) 2016, Van Putte et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781259677120"
+    },
+    {
+        "dept": "BPK",
+        "number": "110",
+        "section": "C100",
+        "title": "Human Nutrition: Current Issues",
+        "bookTitle": "(PKG w/ Iprofile) Visualizing Nutrition (1st Canadian), Grosvenor &amp; Bedoya",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781118827949"
+    },
+    {
+        "dept": "BPK",
+        "number": "110",
+        "section": "C200",
+        "title": "Human Nutrition: Current Issues",
+        "bookTitle": "(PKG w/ Iprofile) Visualizing Nutrition (1st Canadian), Grosvenor &amp; Bedoya",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781118827949"
+    },
+    {
+        "dept": "BPK",
+        "number": "140",
+        "section": "C100",
+        "title": "Contemporary Health Issues",
+        "bookTitle": "Current Issues in Health (2nd Ed.), Brown ",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913753"
+    },
+    {
+        "dept": "BPK",
+        "number": "140",
+        "section": "C200",
+        "title": "Contemporary Health Issues",
+        "bookTitle": "Current Issues in Health (2nd Ed.), Brown ",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913753"
+    },
+    {
+        "dept": "BPK",
+        "number": "140",
+        "section": "D100",
+        "title": "Contemporary Health Issues",
+        "bookTitle": "Current Issues in Health (2nd Ed.), S. Brown ",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913753"
+    },
+    {
+        "dept": "BPK",
+        "number": "143",
+        "section": "C100",
+        "title": "Exercise: Health and Performance",
+        "bookTitle": "Exercise Programming Science and Practice 2017, Leyland",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781772870145"
+    },
+    {
+        "dept": "BPK",
+        "number": "143",
+        "section": "C200",
+        "title": "Exercise: Health and Performance",
+        "bookTitle": "Exercise Programming Science and Practice 2017, Leyland",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781772870145"
+    },
+    {
+        "dept": "BPK",
+        "number": "310",
+        "section": "C100",
+        "title": "Exercise/Work Physiology",
+        "bookTitle": "Exercise Physiology: Human Bioenergetics and Its Applications (4th Ed.), Brooks et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780072556421"
+    },
+    {
+        "dept": "BPK",
+        "number": "311",
+        "section": "C100",
+        "title": "Applied Human Nutrition",
+        "bookTitle": "Krause&rsquo;s Food, and the Nutrition Care Process 14th Eds., Mahan &amp; Raymond (Eds.)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780323340755"
+    },
+    {
+        "dept": "CHIN",
+        "number": "100",
+        "section": "D100",
+        "title": "Mandarin Chinese I",
+        "bookTitle": "Ng, B. Learn Chinese, Book I (2016). Cultural Horizons Education Inc.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780968722381"
+    },
+    {
+        "dept": "CHIN",
+        "number": "100",
+        "section": "D200",
+        "title": "Mandarin Chinese I",
+        "bookTitle": "Ng, B. Learn Chinese, Book I (2016). Cultural Horizons Education Inc.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780968722381"
+    },
+    {
+        "dept": "CHIN",
+        "number": "151",
+        "section": "D100",
+        "title": "Spoken Mandarin for Speakers of Other Chinese Dialects I",
+        "bookTitle": "Xu, M. Learning to Speak Mandarin (ChuXue Putonghua). Hong Kong: Wan Li Book Co., Ltd., 2010",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9789621444547"
+    },
+    {
+        "dept": "CMNS",
+        "number": "110",
+        "section": "C100",
+        "title": "Introduction to Communication Studies",
+        "bookTitle": "Introduction to Communication Studies (2012, 3rd ed.), McCarron.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781256498384"
+    },
+    {
+        "dept": "CMNS",
+        "number": "110",
+        "section": "C100",
+        "title": "Introduction to Communication Studies",
+        "bookTitle": "Encyclopedic Dictionary of Semiotics, Media and Communications (2000), Danesi.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780802083296"
+    },
+    {
+        "dept": "CMNS",
+        "number": "110",
+        "section": "C200",
+        "title": "Introduction to Communication Studies",
+        "bookTitle": "Introduction to Communication Studies (2012, 3rd ed.), McCarron.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781256498384"
+    },
+    {
+        "dept": "CMNS",
+        "number": "110",
+        "section": "C200",
+        "title": "Introduction to Communication Studies",
+        "bookTitle": "Encyclopedic Dictionary of Semiotics, Media and Communications (2000), Danesi.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780802083296"
+    },
+    {
+        "dept": "CMNS",
+        "number": "210",
+        "section": "J100",
+        "title": "Media History",
+        "bookTitle": "Robinson, D. J. (ed.), Communication History in Canada (2nd edition). Don Mills, Ontario: Oxford University Press, 2009.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195430189"
+    },
+    {
+        "dept": "CMNS",
+        "number": "230",
+        "section": "D100",
+        "title": "The Cultural Industries in Canada: Global Context",
+        "bookTitle": "Havens, Timothy and Amanda D. Lotz, Understanding Media Industries (2nd edition).  New York: Oxford University Press, 2016.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780190215323"
+    },
+    {
+        "dept": "CMNS",
+        "number": "259",
+        "section": "C100",
+        "title": "Sound Studies I: Listening, Culture and Society",
+        "bookTitle": "The Soundscape - Our Sonic Environment &amp; The Tuning of the World  (2004) Schafer, R. Murray.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780892814558"
+    },
+    {
+        "dept": "CMNS",
+        "number": "261",
+        "section": "C100",
+        "title": "Documentary Research in Communication",
+        "bookTitle": "Communication Research: Strategies &amp; Sources (2010, 7th ed.), Rubin et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780495095880"
+    },
+    {
+        "dept": "CMNS",
+        "number": "349",
+        "section": "D100",
+        "title": "Environment, Media and Communication",
+        "bookTitle": "Cox, Robert and Phaedra C. Pezzulo, Environmental Communication and the Public Sphere (4th edition). Sage, 2015. [Paperback].(Students should use the 4th edition if possible, but it is also acceptable to use the 3rd edition from 2012 or the 2nd edition from 2010.)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781483344331"
+    },
+    {
+        "dept": "CMNS",
+        "number": "349",
+        "section": "D100",
+        "title": "Environment, Media and Communication",
+        "bookTitle": "Stoknes, Per Espen. What We Think About When We Try Not To Think About Global Warming: Toward a New Psychology of Climate Action. Chelsea Green Publishing, 2015. [Paperback]",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1603585834"
+    },
+    {
+        "dept": "CMNS",
+        "number": "253W",
+        "section": "C100",
+        "title": "Introduction to Information Technology: The New Media",
+        "bookTitle": "New Media An Introduction (2014, 2nd Canadian ed.), Flew &amp; Smith.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199005505"
+    },
+    {
+        "dept": "CMNS",
+        "number": "253W",
+        "section": "C200",
+        "title": "Introduction to Information Technology: The New Media",
+        "bookTitle": "New Media An Introduction (2014, 2nd Canadian ed.), Flew &amp; Smith.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199005505"
+    },
+    {
+        "dept": "CMNS",
+        "number": "455W",
+        "section": "D100",
+        "title": "Women and New Information Technologies",
+        "bookTitle": "Fox, M.F., D.G. Johnson and S.V. Rosser (eds.), Women, Gender, and Technology. Urbana: University of Illinois Press, 2006. [Paperback]Alternate ISBN: 0252073363",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780252073366"
+    },
+    {
+        "dept": "CMNS",
+        "number": "455W",
+        "section": "D100",
+        "title": "Women and New Information Technologies",
+        "bookTitle": "Gajjala, R. and Y.J. Oh (eds.), Cyberfeminism 2.0. New York: Peter Lang Publishers, 2012. [Paperback]Alternate ISBN: 1433113589",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781433113581"
+    },
+    {
+        "dept": "CMNS",
+        "number": "455W",
+        "section": "D100",
+        "title": "Women and New Information Technologies",
+        "bookTitle": "Skloot, Rebecca, The Immortal Life of Henrietta Lacks. Crown Archetype Publishers, 2011. [Paperback]",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781400052189"
+    },
+    {
+        "dept": "CMPT",
+        "number": "120",
+        "section": "D100",
+        "title": "Introduction to Computing Science and Programming I",
+        "bookTitle": "Think Python - How to Think Like a Computer Scientist - Python 3, Allen Downey, Green Tea Press, 2nd Edition, Version 2.2.19 Free Download: http://www.greenteapress.com/thinkpython2/thinkpython2.pdf",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781491939369"
+    },
+    {
+        "dept": "CMPT",
+        "number": "120",
+        "section": "D100",
+        "title": "Introduction to Computing Science and Programming I",
+        "bookTitle": "i-Clickers will be used regularly in class from the beginning of the semester.All versions of i-Clicker may be used.Each student needs to have his/her own i-Clicker.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781464120152"
+    },
+    {
+        "dept": "CMPT",
+        "number": "225",
+        "section": "D100",
+        "title": "Data Structures and Programming",
+        "bookTitle": "Data Abstractions &amp; Problem Solving with C++, Walls and Mirrors  Frank M. Carrano and Timothy Henry7th Edition Pearson, 2016",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134463971"
+    },
+    {
+        "dept": "CMPT",
+        "number": "225",
+        "section": "D100",
+        "title": "Data Structures and Programming",
+        "bookTitle": "i-Clickers will be used regularly in class from the beginning of the semester.All versions of i-Clicker may be used.Each student needs to have his/her own i-Clicker.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781464120152"
+    },
+    {
+        "dept": "CMPT",
+        "number": "310",
+        "section": "D100",
+        "title": "Artificial Intelligence Survey",
+        "bookTitle": "Artificial Intelligence: A Modern Approach (3rd Edition), Stuart J. Russell, Peter Norvig, Prentice Hall, 2010",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780136042594"
+    },
+    {
+        "dept": "CMPT",
+        "number": "354",
+        "section": "D100",
+        "title": "Database Systems I",
+        "bookTitle": "Database Management Systems, Raghu Ramakrishnan and Johannes Gehrke, McGraw-Hill, 2003, 3rd Edition",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780072465631"
+    },
+    {
+        "dept": "CMPT",
+        "number": "371",
+        "section": "D100",
+        "title": "Data Communications and Networking",
+        "bookTitle": "Computer Networking : A Top-Down Approach (7th Edition), James F. Kurose, Keith W. Ross, PearsonThis book is bundled with a handbook (but not necessary)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133594140"
+    },
+    {
+        "dept": "CMPT",
+        "number": "379",
+        "section": "D100",
+        "title": "Principles of Compiler Design",
+        "bookTitle": "Engineering A Compiler Cooper, Torczon Morgan Kaufman, 2011, 2nd Edition ",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9870120884780"
+    },
+    {
+        "dept": "CMPT",
+        "number": "383",
+        "section": "D100",
+        "title": "Comparative Programming Languages",
+        "bookTitle": "Programming Language Pragmatics, Michael L. Scott, Morgan Kaufmann, 2015",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780124104099"
+    },
+    {
+        "dept": "CMPT",
+        "number": "405",
+        "section": "D100",
+        "title": "Design and Analysis of Computing Algorithms",
+        "bookTitle": "Algorithm Design, J. Kleinberg, E. Tardos, Addison-Wesley, 2006",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321295354"
+    },
+    {
+        "dept": "CMPT",
+        "number": "407",
+        "section": "D100",
+        "title": "Computational Complexity",
+        "bookTitle": "Computational Complexity: A Modern Approach, S. Arora and B. Barak, Cambridge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780521424264"
+    },
+    {
+        "dept": "CMPT",
+        "number": "705",
+        "section": "G100",
+        "title": "Design and Analysis of Algorithms",
+        "bookTitle": "Algorithm Design, J. Kleinberg, E. Tardos, Addison-Wesley, 2006",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321295354"
+    },
+    {
+        "dept": "CMPT",
+        "number": "710",
+        "section": "G100",
+        "title": "Computational Complexity",
+        "bookTitle": "Computational Complexity: A Modern Approach, S. Arora and B. Barak, Cambridge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780521424264"
+    },
+    {
+        "dept": "CMPT",
+        "number": "376W",
+        "section": "D100",
+        "title": "Technical Writing and Group Dynamics",
+        "bookTitle": "Style: Lessons in Clarity and Grace, Joseph M. Williams, Longman, 2017, 12th Edition",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134080413"
+    },
+    {
+        "dept": "CRIM",
+        "number": "101",
+        "section": "C100",
+        "title": "Introduction to Criminology",
+        "bookTitle": "Understanding Crime in Canada: An Intro to Criminology (2015), Boyd",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552396322"
+    },
+    {
+        "dept": "CRIM",
+        "number": "103",
+        "section": "C100",
+        "title": "Psychological Explanations of Criminal and Deviant Behavior",
+        "bookTitle": "Criminal Behaviour: A Psychological Approach (11th Ed. 2017)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134163741"
+    },
+    {
+        "dept": "CRIM",
+        "number": "104",
+        "section": "C100",
+        "title": "Sociological Explanations of Criminal and Deviant Behavior",
+        "bookTitle": "Sociological Explanations of Crime and Deviance (Custom Ed. 2014), Cartwright",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781269592314"
+    },
+    {
+        "dept": "CRIM",
+        "number": "131",
+        "section": "C100",
+        "title": "Introduction to the Criminal Justice System - A Total System Approach",
+        "bookTitle": "Canadian Criminal Justice A Primer &amp; Custom Digital Pac (5th Ed.), Griffiths",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176529208"
+    },
+    {
+        "dept": "CRIM",
+        "number": "135",
+        "section": "C100",
+        "title": "Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective",
+        "bookTitle": "Canadian Law An Introduction (2015), Boyd",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176531690"
+    },
+    {
+        "dept": "CRIM",
+        "number": "135",
+        "section": "C100",
+        "title": "Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective",
+        "bookTitle": "Canadian Law An Introduction (2015), Boyd",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176531690"
+    },
+    {
+        "dept": "CRIM",
+        "number": "205",
+        "section": "C100",
+        "title": "Crime Myths",
+        "bookTitle": "The Mythology of Crime &amp; Criminal Justice (2005), Kappeler &amp; Potter",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781577663584"
+    },
+    {
+        "dept": "CRIM",
+        "number": "210",
+        "section": "C100",
+        "title": "Law, Youth and Young Offenders",
+        "bookTitle": "Young Offenders and Youth Justice: A Century After the Fact (2015), Bell",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "97800176531706"
+    },
+    {
+        "dept": "CRIM",
+        "number": "220",
+        "section": "C100",
+        "title": "Research Methods in Criminology",
+        "bookTitle": "Research Decisions: Quantitative, Qualitative and Mixed-Method Approaches (5th Ed. 2014), Palys &amp; Atchinson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176509378"
+    },
+    {
+        "dept": "CRIM",
+        "number": "230",
+        "section": "C100",
+        "title": "Criminal Law",
+        "bookTitle": "Criminal Law in Canada Cases, Questions &amp; the Code (2014), Verdun-Jones",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176529529"
+    },
+    {
+        "dept": "CRIM",
+        "number": "230",
+        "section": "C100",
+        "title": "Criminal Law",
+        "bookTitle": "Canadian Criminal Cases Selected Highlights (2015), Verdun-Jones",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176684907"
+    },
+    {
+        "dept": "CRIM",
+        "number": "230",
+        "section": "C100",
+        "title": "Criminal Law",
+        "bookTitle": "Pocket Criminal Code 2017, Rodrigues",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780779871216"
+    },
+    {
+        "dept": "CRIM",
+        "number": "320",
+        "section": "C100",
+        "title": "Quantitative Research Methods in Criminology",
+        "bookTitle": "Quantitative Research Methods in Criminology (Custom Ed. 2007), Davies",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781772242966"
+    },
+    {
+        "dept": "CRIM",
+        "number": "320",
+        "section": "C100",
+        "title": "Quantitative Research Methods in Criminology",
+        "bookTitle": "Using SPSS for Windows and Macintosh (2014), Green &amp; Salking",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780205958603"
+    },
+    {
+        "dept": "CRIM",
+        "number": "321",
+        "section": "C100",
+        "title": "Qualitative Research Methods in Criminology",
+        "bookTitle": "Th Practice of Qualitative Research (2016), Hesse-Biber",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781452268088"
+    },
+    {
+        "dept": "CRIM",
+        "number": "330",
+        "section": "C100",
+        "title": "Criminal Procedure and Evidence",
+        "bookTitle": "Mr Big - Exposing Undercover Investigations In Canada (2010), Keenan &amp; Brockman",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552663769"
+    },
+    {
+        "dept": "CRIM",
+        "number": "330",
+        "section": "C100",
+        "title": "Criminal Procedure and Evidence",
+        "bookTitle": "An Introduction to Canadian Criminal Procedure &amp; Evidence (2015), Brockman",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176588267"
+    },
+    {
+        "dept": "CRIM",
+        "number": "335",
+        "section": "C100",
+        "title": "Human Rights and Civil Liberties",
+        "bookTitle": "The Charter of Rights &amp; Freedoms (2013), Kent &amp; Sharpe",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552213414"
+    },
+    {
+        "dept": "CRIM",
+        "number": "355",
+        "section": "C100",
+        "title": "The Forensic Sciences",
+        "bookTitle": "Criminalistics An Intro To Forensice Science (2015), Saferstein",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133458824"
+    },
+    {
+        "dept": "CRIM",
+        "number": "402",
+        "section": "C100",
+        "title": "Biological Explanations of Crime",
+        "bookTitle": "Biological Explanations of Criminal Behaviour (2007), Anderson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781420043310"
+    },
+    {
+        "dept": "CRIM",
+        "number": "402",
+        "section": "C100",
+        "title": "Biological Explanations of Crime",
+        "bookTitle": "Biological Explanations of Criminal Behaviour (2007), Anderson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781420043310"
+    },
+    {
+        "dept": "CRIM",
+        "number": "440",
+        "section": "C100",
+        "title": "Correctional Administration and Planning",
+        "bookTitle": "Management Challenges in Canadian Federal Corrections (2009), Jackson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781772870138"
+    },
+    {
+        "dept": "CRIM",
+        "number": "458",
+        "section": "C100",
+        "title": "Community Policing",
+        "bookTitle": "Community Based Strategic Policing in Canada (4th Ed.), Whitelaw &amp; Parent",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176509415"
+    },
+    {
+        "dept": "CRIM",
+        "number": "464",
+        "section": "C100",
+        "title": "Street Gang Patterns and Policies",
+        "bookTitle": "The Modern Gang Reader (2013), Maxson et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199895397"
+    },
+    {
+        "dept": "CRIM",
+        "number": "480",
+        "section": "C100",
+        "title": "Computer Forensics and Cybercrime",
+        "bookTitle": "System Forensics, Investigation and Response (2014), Easttom",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781284031058"
+    },
+    {
+        "dept": "CRIM",
+        "number": "300W",
+        "section": "C100",
+        "title": "Current Theories and Perspectives in Criminology",
+        "bookTitle": "Explaining Criminals and Crime: Essays in Contemporary Criminological Theory (2001), Paternoster &amp; Bachman",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195329933"
+    },
+    {
+        "dept": "EASC",
+        "number": "101",
+        "section": "D100",
+        "title": "Dynamic Earth",
+        "bookTitle": "Course Text: &ldquo;Introduction to Physical Geology, Canadian Edition&rdquo;; Fletcher, C., Gibson, D., Ansdell, K. 2013; John Wiley &amp; Sons, Inc",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781118300824"
+    },
+    {
+        "dept": "EASC",
+        "number": "101",
+        "section": "D100",
+        "title": "Dynamic Earth",
+        "bookTitle": "Laboratory Manual: The EASC101 laboratory manual is required for the course and is available for purchase at the University Book Store. Second-hand lab manuals cannot be used (students write directly in to their lab manuals during the lab period).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781256618089"
+    },
+    {
+        "dept": "EASC",
+        "number": "104",
+        "section": "C100",
+        "title": "Geohazards - Earth in Turmoil",
+        "bookTitle": "Natural Hazards: Earth's Processes as Hazards, Disasters, and Catastrophes,3rd Canadian edition(2014)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133076509"
+    },
+    {
+        "dept": "EASC",
+        "number": "107",
+        "section": "D100",
+        "title": "Economic Geological Resources",
+        "bookTitle": "Earth Resources and the Environment, J.R. Craig, D.J. Vaughan, and B.J. Skinner, 4th Edition, 2011. Prentice-Hall Publications",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "97803216764"
+    },
+    {
+        "dept": "EDUC",
+        "number": "211",
+        "section": "D100",
+        "title": "Mathematical Experience I: Numbers and Beyond",
+        "bookTitle": "The Heart of Mathematics, An invitation to effective thinking, 4th Edition, by Burger and Starbird. John Wiley &amp; Sons, Inc. NOTE: Previous editions of the text can also be used.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781118156599"
+    },
+    {
+        "dept": "EDUC",
+        "number": "220",
+        "section": "C100",
+        "title": "Introduction to Educational Psychology",
+        "bookTitle": "Educational Psychology ( 2015 Custom Edition for SFU). Nesbit.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323320075"
+    },
+    {
+        "dept": "EDUC",
+        "number": "220",
+        "section": "C200",
+        "title": "Introduction to Educational Psychology",
+        "bookTitle": "Educational Psychology ( 2015 Custom Edition for SFU). Nesbit.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323320075"
+    },
+    {
+        "dept": "EDUC",
+        "number": "220",
+        "section": "C300",
+        "title": "Introduction to Educational Psychology",
+        "bookTitle": "Educational Psychology ( 2015 Custom Edition for SFU). Nesbit.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323320075"
+    },
+    {
+        "dept": "EDUC",
+        "number": "315",
+        "section": "C100",
+        "title": "Individual and Developmental Differences in Language Acquisition",
+        "bookTitle": "An Introduction To Children With Language Disorders (2012, 4th edition), Reed.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780131390485"
+    },
+    {
+        "dept": "EDUC",
+        "number": "322",
+        "section": "C100",
+        "title": "The Social Lives of School Children",
+        "bookTitle": "Guiding Children's Social Development and Learning (8th ed., 2015), Kostelnik et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781285743707"
+    },
+    {
+        "dept": "EDUC",
+        "number": "322",
+        "section": "C200",
+        "title": "The Social Lives of School Children",
+        "bookTitle": "Guiding Children's Social Development and Learning (8th ed., 2015), Kostelnik et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781285743707"
+    },
+    {
+        "dept": "EDUC",
+        "number": "323",
+        "section": "E100",
+        "title": "Introduction to Counselling Theories",
+        "bookTitle": "Corey, G. (2012). Theory and practice of counselling and psychotherapy (9th ed.) Belmont, CA: Brooks/Cole.NOTE: Ok to use 10th ed.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780840028549"
+    },
+    {
+        "dept": "EDUC",
+        "number": "324",
+        "section": "E100",
+        "title": "Foundations of Multicultural Counselling",
+        "bookTitle": "Diversity,Culture and Counselling: A Canadian Perspective:, 2nd ed. Geoffrey G. Hett, Maria del Carmen Rodriguez, M. Honor&eacute; France (2012).UTOROOther readings will be provided by link or PDF on Canvas",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781550594416"
+    },
+    {
+        "dept": "EDUC",
+        "number": "326",
+        "section": "C100",
+        "title": "Classroom Management and Discipline",
+        "bookTitle": "A Teacher's Guide To Cognitive Type Theory &amp; Learning Style (1st Custom Course Pack edition, 2006), Mamchur",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780840070883"
+    },
+    {
+        "dept": "EDUC",
+        "number": "326",
+        "section": "C200",
+        "title": "Classroom Management and Discipline",
+        "bookTitle": "A Teacher's Guide To Cognitive Type Theory &amp; Learning Style (1st Custom Course Pack edition, 2006), Mamchur",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780840070883"
+    },
+    {
+        "dept": "EDUC",
+        "number": "330",
+        "section": "E100",
+        "title": "Movement Language Elements for Dance in Education",
+        "bookTitle": "Creative Dance for all Ages (second edition with web resources) by Anne Green Gilbert.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781450480949"
+    },
+    {
+        "dept": "EDUC",
+        "number": "330",
+        "section": "E100",
+        "title": "Movement Language Elements for Dance in Education",
+        "bookTitle": "Smart Moves by Carla Hannaford.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780915556373"
+    },
+    {
+        "dept": "EDUC",
+        "number": "382",
+        "section": "F100",
+        "title": "Diversity in Education: Theories, Policies, Practices",
+        "bookTitle": "Potvin, M., Magnan, M.-O. &amp; Larochelle-Audet, J. (Dir.)(2016).LA DIVERSIT&Eacute; ETHNOCULTURELLE, RELIGIEUSE ET LINGUISTIQUE EN &Eacute;DUCATION.Th&eacute;orie et pratique.Qu&eacute;bec: Fides &eacute;ducation. (306 pages).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9782923989693"
+    },
+    {
+        "dept": "EDUC",
+        "number": "414",
+        "section": "D100",
+        "title": "Designs for Learning: Secondary Social Studies",
+        "bookTitle": "The anthology of Social Studies (Vol. 2): Issues and strategies for secondary teachers. (Eds. Roland Case &amp; Penney Clark). Pacific Educational Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913883"
+    },
+    {
+        "dept": "EDUC",
+        "number": "414",
+        "section": "F100",
+        "title": "Designs for Learning: Secondary Social Studies",
+        "bookTitle": "Case, R. &amp; Clark , P. Eds. The Anthology of Social Studies:Issues and Strategies for Secondary Teachers. Vancouver: Pacific Educational Press, 419 p. Voici le lien pour ce manuel: http://pacificedpress.ca/?p=155",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913883"
+    },
+    {
+        "dept": "EDUC",
+        "number": "414",
+        "section": "F100",
+        "title": "Designs for Learning: Secondary Social Studies",
+        "bookTitle": "L&eacute;vesque, S. &amp; Cooper, R. 2013. Enseigner la pens&eacute;e historique. The Critical Thinking Consortium Series. 118p. Voici le lien pour ce manuel: http://thenhier.ca/sites/default/files/Enseigner-la-pensee-historique.pdf",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913500"
+    },
+    {
+        "dept": "EDUC",
+        "number": "422",
+        "section": "C100",
+        "title": "Learning Disabilities",
+        "bookTitle": "Handbook of Learning Disabilities (2nd Ed. 2014), Swanson et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781462518685"
+    },
+    {
+        "dept": "EDUC",
+        "number": "422",
+        "section": "C200",
+        "title": "Learning Disabilities",
+        "bookTitle": "Handbook of Learning Disabilities (2nd Ed. 2014), Swanson et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781462518685"
+    },
+    {
+        "dept": "EDUC",
+        "number": "424",
+        "section": "D100",
+        "title": "Learning Disabilities: Laboratory",
+        "bookTitle": "Required Text(s):Cockrum, W.A. &amp; Shanker, J.L. (2013).Locating and Correcting Reading Difficulties (Tenth edition).Boston, USA, PearsonOption for studentsLocating and Correcting Reading Difficulties (Subscription), 10th Edition Cockrum &amp; Shanker&copy;2013 | Adobe Reader | ISBN-13: 9780133092073|More infoOnline purchase price:$23.99|Students, buy or rent this eText",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780132929103"
+    },
+    {
+        "dept": "EDUC",
+        "number": "424",
+        "section": "E100",
+        "title": "Learning Disabilities: Laboratory",
+        "bookTitle": "Required Text(s):Cockrum, W.A. &amp; Shanker, J.L. (2013).Locating and Correcting Reading Difficulties (Tenth edition).Boston, USA, PearsonOption for studentsLocating and Correcting Reading Difficulties (Subscription), 10th Edition Cockrum &amp; Shanker&copy;2013 | Adobe Reader | ISBN-13: 9780133092073|More infoOnline purchase price:$23.99|Students, buy or rent this eText",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780132929103"
+    },
+    {
+        "dept": "EDUC",
+        "number": "426",
+        "section": "D100",
+        "title": "Teaching Children and Youth with Special Needs",
+        "bookTitle": "Special Education in Canada, 2e.Author(s):Edmunds; EdmundsAlso available for purchase as an e-book at this link.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199005154"
+    },
+    {
+        "dept": "EDUC",
+        "number": "426",
+        "section": "E100",
+        "title": "Teaching Children and Youth with Special Needs",
+        "bookTitle": "Special Education in Canada, 2e.Author(s):Edmunds; EdmundsAlso available for purchase as an e-book at this link.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199005154"
+    },
+    {
+        "dept": "EDUC",
+        "number": "430",
+        "section": "E100",
+        "title": "Designs for Learning: Dance",
+        "bookTitle": "Creative Dance for all Ages (second edition with web resources) by Anne Green Gilbert.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781450480949"
+    },
+    {
+        "dept": "EDUC",
+        "number": "430",
+        "section": "E100",
+        "title": "Designs for Learning: Dance",
+        "bookTitle": "Smart Moves by Carla Hannaford.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780915556373"
+    },
+    {
+        "dept": "EDUC",
+        "number": "438",
+        "section": "D100",
+        "title": "Education and Popular Culture",
+        "bookTitle": "Marshall, E. &amp; Sensoy, &Ouml;. (2016). Rethinking popular culture &amp; media, second edition. Milwaukee, WI: Rethinking Schools Ltd.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780942961628"
+    },
+    {
+        "dept": "EDUC",
+        "number": "448",
+        "section": "C100",
+        "title": "Teaching about Justice, Law and Citizenship",
+        "bookTitle": "Let's Talk About Law in Elementary School (1998). Cassidy &amp; Yates.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781550591569"
+    },
+    {
+        "dept": "EDUC",
+        "number": "448",
+        "section": "C100",
+        "title": "Teaching about Justice, Law and Citizenship",
+        "bookTitle": "Once Upon A Crime: Using Stories, Simulations, and Mock Trials to Explore Justice and Citizenship in Elementary School (2005), Cassidy and Yates.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781550592986"
+    },
+    {
+        "dept": "EDUC",
+        "number": "457",
+        "section": "E100",
+        "title": "Drama and Education",
+        "bookTitle": "Exploring Curriculum: Performative Inquiry, Role Drama and Learning &ndash; Lynn Fels and George Belliveau (out of print will be available for purchase in SFU Bookstore)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781895766844"
+    },
+    {
+        "dept": "EDUC",
+        "number": "457",
+        "section": "E100",
+        "title": "Drama and Education",
+        "bookTitle": "The Tempest, William Shakespeare &ndash; Arden Edition.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781408133477"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "Folk and Fairy Tales (4th ed.), Hallett and Karasek.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551118987"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "From Cover to Cover: Evaluating and Reviewing Children&rsquo;s Books. (2010, Revised edition). Horning.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780060777579"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "I Want My Hat Back. (2011) Klassen.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780763655983"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "Little Red Hood. (2008) Leray.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781907912009"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "Gone, Gone, Gone. (2012) Mosokowitz.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781442407534"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "El Deafo (2014), Bell.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781419712173"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "Children's Picturebooks: The Art of Visual Storytelling (2012), Salisbury &amp; Styles.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781856697385"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "One Crazy Summer (2010). Williams-Garcia.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978006760908"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "The Stinky Cheese Man &amp; Other Fairly Stupid Tales (1992), Scieszka.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780670844876"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C100",
+        "title": "Children's Literature",
+        "bookTitle": "Snakes (2010), Bishop.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780545206389"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "Folk and Fairy Tales (4th ed.), Hallett and Karasek.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551118987"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "From Cover to Cover: Evaluating and Reviewing Children&rsquo;s Books. (2010, Revised edition). Horning.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780060777579"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "I Want My Hat Back. (2011) Klassen.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780763655983"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "Little Red Hood. (2008) Leray.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781907912009"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "Gone, Gone, Gone. (2012) Mosokowitz.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781442407534"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "El Deafo (2014), Bell.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781419712173"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "Children's Picturebooks: The Art of Visual Storytelling (2012), Salisbury &amp; Styles.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781856697385"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "One Crazy Summer (2010). Williams-Garcia.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978006760908"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "The Stinky Cheese Man &amp; Other Fairly Stupid Tales (1992), Scieszka.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780670844876"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "C200",
+        "title": "Children's Literature",
+        "bookTitle": "Snakes (2010), Bishop.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780545206389"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "(Additional books will be required)**Hallett, M. &amp; Karasek, B. (Eds.). (2008). Concise Folk and fairy tales (4th ed.). Peterborough, ON: Broadview Press. 9781554810185 / 1554810183 **Please buy the concise edition!",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781554810185"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Lawson, J. A. (2012). Down in the bottom of the bottom of the box. Erin, ON: The Porcupine&rsquo;s Quill.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780889843547"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Russo, M. (2016). If I was your girl. New York: Flatiron Books.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781250078407"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Salisbury, M. &amp; Styles, M. (2012). Children&rsquo;s picturebooks: The Art of Visual Storytelling. London: Laurence King.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781856697385"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Tan, S. (2011). Lost and found. New York: Arthur A. Levine.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780545229241"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Select One Below (Choose on Canvas after First Day of Class)Alexander, K. (2016). Booked. New York: HMH Books.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780544570986"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Gino, A. (2015). George. New York: Scholastic.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780545812542"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Hellisen, C. (2016). Beastkeeper. New York: Square Fish. Reprint Ed.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781250073648"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Snicket, L. (2007). A series of unfortunate events #1: Bad beginning. New York: Scholastic.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780061146305"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Palacio, R.J. (2012). Wonder. New York: Knopf.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "970375869020"
+    },
+    {
+        "dept": "EDUC",
+        "number": "465",
+        "section": "D100",
+        "title": "Children's Literature",
+        "bookTitle": "Wan-Long Shan, W. (2015). The way home looks now. New York: Scholastic.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780545609562"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C100",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Scaffolding Language, Scaffolding Learning: Teaching English Language Learners in the Mainstream Classroom (2nd ed., 2015), Gibbons.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780325056647"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C100",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Adding English: A Guide to Teaching in Multilingual Classrooms (2004), Coelho.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887510953"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C100",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Scaffolding Language, Scaffolding Learning: Teaching English Language Learners in the Mainstream Classroom (2nd ed., 2015), Gibbons.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780325056647"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C100",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Adding English: A Guide to Teaching in Multilingual Classrooms (2004), Coelho.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887510953"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C200",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Scaffolding Language, Scaffolding Learning: Teaching English Language Learners in the Mainstream Classroom (2nd ed., 2015), Gibbons.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780325056647"
+    },
+    {
+        "dept": "EDUC",
+        "number": "467",
+        "section": "C200",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language",
+        "bookTitle": "Adding English: A Guide to Teaching in Multilingual Classrooms (2004), Coelho.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887510953"
+    },
+    {
+        "dept": "EDUC",
+        "number": "471",
+        "section": "D300",
+        "title": "Curriculum Development: Theory and Practice",
+        "bookTitle": "Questioning the Classroom: Perspectives on Canadian Education.Gereluk, Dianne; Maxwell, Bruce; Norris, Trevor; Martin. Christopher Oxford University Press, 2016.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199010035"
+    },
+    {
+        "dept": "EDUC",
+        "number": "474",
+        "section": "F100",
+        "title": "Designs for Learning: Elementary Social Studies",
+        "bookTitle": "**Case, R. &amp; Clark , P. Eds. The Anthology of Social Studies:Issues and Strategies for Elementary Teachers. Vancouver: Pacific Educational Press, 350 p.Voici le lien pour ce manuel: http://pacificedpress.ca/?p=2687  **A noter que ce manuel est &eacute;galement disponible sur Kindle",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913920"
+    },
+    {
+        "dept": "EDUC",
+        "number": "474",
+        "section": "F100",
+        "title": "Designs for Learning: Elementary Social Studies",
+        "bookTitle": "L&eacute;vesque, S. &amp; Cooper, R. 2013. Enseigner la pens&eacute;e historique. The Critical Thinking Consortium. Series. 118p. Voici le lien pour ce manuel: http://thenhier.ca/sites/default/files/Enseigner-la-pensee-historique.pdf",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913500"
+    },
+    {
+        "dept": "EDUC",
+        "number": "475",
+        "section": "C100",
+        "title": "Designs for Learning: Elementary Mathematics",
+        "bookTitle": "Elementary &amp; Middle School Mathematics - Teaching Developmentally (2017), Van de Walle et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134095912"
+    },
+    {
+        "dept": "EDUC",
+        "number": "475",
+        "section": "D100",
+        "title": "Designs for Learning: Elementary Mathematics",
+        "bookTitle": "Van de Walle, J., Karp, K., Bay-Williams, J., &amp; McGarvey, L. (2017). Elementary &amp; Middle School Mathematics: Fifth Canadian Edition. Scarborough, ON: Pearson Education Canada.*NOTE: Previous editions of this text are acceptable.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134095912"
+    },
+    {
+        "dept": "EDUC",
+        "number": "475",
+        "section": "E100",
+        "title": "Designs for Learning: Elementary Mathematics",
+        "bookTitle": "Van de Walle, John A., Folk, S., Karp, K., &amp; Bay-Williams, J. (2018) Elementary &amp; Middle School Mathematics: Fifth Canadian Edition. Pearson Education Canada.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134095912"
+    },
+    {
+        "dept": "EDUC",
+        "number": "475",
+        "section": "F100",
+        "title": "Designs for Learning: Elementary Mathematics",
+        "bookTitle": "Van de Walle, J.A., Karp, K.S.; Bay-Williams, J.M. &amp; McGarvey, L.M. (2018) Elementary and Middle School Mathematics: Teaching Developmentally, Fifth Canadian Edition. Pearson Education CanadaNote: Students may use earlier editions",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134095912"
+    },
+    {
+        "dept": "EDUC",
+        "number": "481",
+        "section": "F100",
+        "title": "Designs for Learning: French Immersion Programs and Francophone Schools",
+        "bookTitle": "Lyster, R. (2016). Vers une approche int&eacute;gr&eacute;e en immersion. Anjout : Les &Eacute;ditions CEC. ",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9782761789011"
+    },
+    {
+        "dept": "EDUC",
+        "number": "806",
+        "section": "G031",
+        "title": "Selected Problems in Higher Education",
+        "bookTitle": "Illeris, K. (2004) Adult Education and Adult Learning. Krieger Publishing Company.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1575242575"
+    },
+    {
+        "dept": "EDUC",
+        "number": "806",
+        "section": "G031",
+        "title": "Selected Problems in Higher Education",
+        "bookTitle": "Rose, M. (2005) The Mind at Work: Valuing the Intelligence of the American Worker. Viking.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780670032822"
+    },
+    {
+        "dept": "EDUC",
+        "number": "819",
+        "section": "G031",
+        "title": "Studies in Teacher-Student Interaction",
+        "bookTitle": "Moore, D. &amp; Sabatier, C. (2012). Une semaine en classe en immersion au Canada. Une approche ethnographique pour la formation des enseignants. Le projet CECA au Canada. Grenoble: PUG.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9782706117442"
+    },
+    {
+        "dept": "EDUC",
+        "number": "819",
+        "section": "G031",
+        "title": "Studies in Teacher-Student Interaction",
+        "bookTitle": "Cicurel, F. (2011). Les interactions dans l&rsquo;enseignement des langues. Agir professoral et pratiques de classe. Paris : Didier.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9782278058"
+    },
+    {
+        "dept": "EDUC",
+        "number": "820",
+        "section": "G021",
+        "title": "Current Issues in Curriculum and Pedagogy",
+        "bookTitle": "Flinders, J. &amp; Thornton, S. J. (2017) The curriculum studies reader. 5th Edition. New York &amp; London: Routledge (paperback)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781138121461"
+    },
+    {
+        "dept": "EDUC",
+        "number": "823",
+        "section": "G031",
+        "title": "Curriculum and Instruction in an Individual Teaching Speciality",
+        "bookTitle": "Charon, Rita. 2008. Narrative Medicine: Honoring the Stories of Illness. Oxford University Press. (paperback)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195340228"
+    },
+    {
+        "dept": "EDUC",
+        "number": "823",
+        "section": "G031",
+        "title": "Curriculum and Instruction in an Individual Teaching Speciality",
+        "bookTitle": "Flinders, David. J. &amp; Thornton, Stephen. J. (2017) The Curriculum Studies Reader. 5th Ed. Routledge. Taylor &amp; Francis Group. New York: NY. (pbk)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781138121461"
+    },
+    {
+        "dept": "EDUC",
+        "number": "830",
+        "section": "G001",
+        "title": "Implementation of Educational Programs",
+        "bookTitle": "Tyack, D. and Cuban, L. (1995). Tinkering toward utopia: A century of public school reform. Cambridge, Mass.: Harvard University Press. *** Available electronically from the SFU Library at no cost",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780674892835"
+    },
+    {
+        "dept": "EDUC",
+        "number": "830",
+        "section": "G031",
+        "title": "Implementation of Educational Programs",
+        "bookTitle": "Solnit, Rebecca (2016). Hope in the Dark: Untold Histories, Wild Possibilities. Nation Books, New York.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781608465767"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G001",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "Abram, David. (1996). The spell of the sensuous: Perception and language in a more- than-human world. NY: Vintage",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "0679776397"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G001",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "Friedman, L. &amp; Moon, S. (Eds.) (1997). Being bodies: Buddhist women on the paradox of embodiment. Boston: Shambhala.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1570623244"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G001",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "Snowber, C. (2016). Embodied inquiry. Rotterdam, The Netherlands: Sense Publishing",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9789463007535"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G031",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "Snowber, C. (2016). Embodied inquiry. Rotterdam, The Netherlands: Sense Publishing.Paperback.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9789463007535"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G031",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "S. Walsh, B. Bickel, &amp; C. Leggo (Eds.). (2015). Arts-based and contemplative practices in researchand teaching: Honoring presence. New York, NY: Routledge.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781138286740"
+    },
+    {
+        "dept": "EDUC",
+        "number": "843",
+        "section": "G031",
+        "title": "Embodiment and Curriculum Inquiry",
+        "bookTitle": "Friedman, L. &amp; Moon, S. (Eds.) (1997). Being bodies: Buddhist women on the paradox ofembodiment. Boston: Shambhala. ISBN",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1570623244"
+    },
+    {
+        "dept": "EDUC",
+        "number": "845",
+        "section": "G031",
+        "title": "Learning Mathematics with Computers",
+        "bookTitle": "Mindstorms: Children, Computers and Powerful Ideas. Seymour Papert.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "0465046746"
+    },
+    {
+        "dept": "EDUC",
+        "number": "855",
+        "section": "G001",
+        "title": "Multicultural and Race Relations Education: Policy Development and Program Implementation",
+        "bookTitle": "Dei, G. (1996) Anti-racism education: theory and practice. Halifax, NS: Fernwood Publishers",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781895686982"
+    },
+    {
+        "dept": "EDUC",
+        "number": "855",
+        "section": "G001",
+        "title": "Multicultural and Race Relations Education: Policy Development and Program Implementation",
+        "bookTitle": "Razack, S., Smith, M., &amp; Thobani, S. (Eds). (2010). State of race: Critical race feminism for the 21st century. Toronto: Between the Lines",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781897071595"
+    },
+    {
+        "dept": "EDUC",
+        "number": "864",
+        "section": "G001",
+        "title": "Research Designs in Education",
+        "bookTitle": "Karsenti, T., &amp; Savoie-Zajc, L. (2011). (Dir.). La recherche en &eacute;ducation : &Eacute;tapes et approches. 3e &eacute;dition. Sherbrooke, QC: Pearson-ERPI.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978276134136"
+    },
+    {
+        "dept": "EDUC",
+        "number": "864",
+        "section": "G032",
+        "title": "Research Designs in Education",
+        "bookTitle": "O&rsquo;Leary, Z. (2014). The essential guide to doing your research project (2nd ed.). Thousand Oaks, CA: Sage Publications.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781446258972"
+    },
+    {
+        "dept": "EDUC",
+        "number": "864",
+        "section": "G032",
+        "title": "Research Designs in Education",
+        "bookTitle": "Salkind, N. J. (2015). Excel statistics. A quick guide. 3rd edition. Thousand Oaks, CA: Sage Publications. NOTE: If you have an earlier of this text that is good too!",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978482274048"
+    },
+    {
+        "dept": "EDUC",
+        "number": "878",
+        "section": "G001",
+        "title": "Group Counselling",
+        "bookTitle": "Corey, M.S., Corey, G., &amp; Corey, C. (2014). Groups: Process and Practice (9th ed.). Brooks/Cole 13: 9781133945468",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "101133945465"
+    },
+    {
+        "dept": "EDUC",
+        "number": "100W",
+        "section": "C100",
+        "title": "Selected Questions and Issues in Education",
+        "bookTitle": "Making Sense In Education: A Student's Guide To Research And Writing (2012), Northey &amp; Bradley.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195443721"
+    },
+    {
+        "dept": "EDUC",
+        "number": "100W",
+        "section": "C200",
+        "title": "Selected Questions and Issues in Education",
+        "bookTitle": "Making Sense In Education: A Student's Guide To Research And Writing (2012), Northey &amp; Bradley.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195443721"
+    },
+    {
+        "dept": "EDUC",
+        "number": "100W",
+        "section": "C300",
+        "title": "Selected Questions and Issues in Education",
+        "bookTitle": "Making Sense In Education: A Student's Guide To Research And Writing (2012), Northey &amp; Bradley.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195443721"
+    },
+    {
+        "dept": "EDUC",
+        "number": "100W",
+        "section": "D100",
+        "title": "Selected Questions and Issues in Education",
+        "bookTitle": "Gereluk, D., Martin, C., Maxwell, B., &amp; Norris, T. (2016). Questioning the classroom: perspectives on Canadian Education. Oxford Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199010035"
+    },
+    {
+        "dept": "EDUC",
+        "number": "100W",
+        "section": "D100",
+        "title": "Selected Questions and Issues in Education",
+        "bookTitle": "Gereluk, D., Martin, C., Maxwell, B., &amp; Norris, T. (2016). Questioning the classroom: perspectives on Canadian Education. Oxford Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199010035"
+    },
+    {
+        "dept": "EDUC",
+        "number": "473W",
+        "section": "E100",
+        "title": "Designs for Learning: Reading",
+        "bookTitle": "Graves, Michael F., Juel, Connie, Graves, Bonnie B. &amp; Dewitz, Peter F. (2011). Teaching Reading in the 21st Century, 5th Ed. Pearson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780132092258"
+    },
+    {
+        "dept": "EDUC",
+        "number": "473W",
+        "section": "E300",
+        "title": "Designs for Learning: Reading",
+        "bookTitle": "Graves, Michael F., Juel, Connie F., Graves, Bonnie B. &amp; Dewitz, Peter F. (2011). Teaching Reading in the 21st Century: Motivating all Learners, 5th Ed. Pearson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780132092258"
+    },
+    {
+        "dept": "ENGL",
+        "number": "205",
+        "section": "D100",
+        "title": "Restoration and Eighteenth Century Literature",
+        "bookTitle": "The Broadview Anthology of British Literature, Volume 3: The Restoration and Eighteenth Century. Second Edition",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1554810477"
+    },
+    {
+        "dept": "ENGL",
+        "number": "205",
+        "section": "D100",
+        "title": "Restoration and Eighteenth Century Literature",
+        "bookTitle": "Francis Coventry, The History of Pompey the Little, ed. Nicholas Hudson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551117348"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Open City: A Novel (2012), Cole.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780812980097"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Diamond Grill (2006), Wah.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781897126110"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Heart of Darkness (1999), Conrad.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780140281637"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Mrs. Dalloway (1953), Woolf.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780156628709"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Meatless Days (1991), Suleri.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780226779812"
+    },
+    {
+        "dept": "ENGL",
+        "number": "207",
+        "section": "C100",
+        "title": "Twentieth Century Literatures in English",
+        "bookTitle": "Running in the Family (2011), Ondaatje.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780307401199"
+    },
+    {
+        "dept": "ENGL",
+        "number": "212",
+        "section": "J100",
+        "title": "Metrics and Prosody",
+        "bookTitle": "Mark Strand and Eavan Boland, The Making of a Poem: A Norton Anthology of Poetic Forms (W.W. Norton, 2001).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780393321789"
+    },
+    {
+        "dept": "ENGL",
+        "number": "212",
+        "section": "J100",
+        "title": "Metrics and Prosody",
+        "bookTitle": "Rhian Williams, The Poetry Toolkit: The Essential Guide to Studying Poetry: 2nd Edition (Bloomsbury Academic, 2013).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781441182784"
+    },
+    {
+        "dept": "ENGL",
+        "number": "212",
+        "section": "J100",
+        "title": "Metrics and Prosody",
+        "bookTitle": "Charles O. Hartman,Verse: An Introduction to Prosody. (Wiley-Blackwell, 2015). The complete book is available as an e-text through the SFU library.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780470656013"
+    },
+    {
+        "dept": "ENGL",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Anahareo,Devil in Deerskins",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887557651"
+    },
+    {
+        "dept": "ENGL",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Maria Campbell,Halfbreed",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887801167"
+    },
+    {
+        "dept": "ENGL",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Eden Robinson, Son of a Trickster",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780345810786"
+    },
+    {
+        "dept": "ENGL",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Sean A. Tinsley &amp; Rachel A. Qitsualik,Ajjiit: Dark Dreams of the Ancient Arctic(Inhabit media)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781926569307"
+    },
+    {
+        "dept": "ENGL",
+        "number": "313",
+        "section": "C100",
+        "title": "Late Shakespeare",
+        "bookTitle": "The Norton Shakespeare: Volume 2, The Later Plays (packaged together with Hamlet), (3rd ed.), Greenblat.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780393646887"
+    },
+    {
+        "dept": "ENGL",
+        "number": "313",
+        "section": "C100",
+        "title": "Late Shakespeare",
+        "bookTitle": "Shakespeare Early and Late (2016), Budra.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913746"
+    },
+    {
+        "dept": "ENGL",
+        "number": "322",
+        "section": "E100",
+        "title": "Studies in Eighteenth Century Authors",
+        "bookTitle": "Thomas Southerne, Oroonoko, ed. Max Novak",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780803292925"
+    },
+    {
+        "dept": "ENGL",
+        "number": "322",
+        "section": "E100",
+        "title": "Studies in Eighteenth Century Authors",
+        "bookTitle": "Aphra Behn,The Rover and Other Plays",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199540204"
+    },
+    {
+        "dept": "ENGL",
+        "number": "322",
+        "section": "E100",
+        "title": "Studies in Eighteenth Century Authors",
+        "bookTitle": "Aphra Behn,Oroonoko and other Writings",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199538768"
+    },
+    {
+        "dept": "ENGL",
+        "number": "322",
+        "section": "E100",
+        "title": "Studies in Eighteenth Century Authors",
+        "bookTitle": "The Cambridge Companion to Aphra Behn",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780521527200"
+    },
+    {
+        "dept": "ENGL",
+        "number": "357",
+        "section": "C100",
+        "title": "Studies in Canadian Literature since 1920",
+        "bookTitle": "Canadian Literature in English Texts and Contexts, Volume II (2009), Moss &amp; Sugars.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321494009"
+    },
+    {
+        "dept": "ENGL",
+        "number": "357",
+        "section": "C100",
+        "title": "Studies in Canadian Literature since 1920",
+        "bookTitle": "The Apprenticeship of Duddy Kravitz (1989), Richler.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780771099724"
+    },
+    {
+        "dept": "ENGL",
+        "number": "357",
+        "section": "C100",
+        "title": "Studies in Canadian Literature since 1920",
+        "bookTitle": "The Diviners (2007), Laurence.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780771034909"
+    },
+    {
+        "dept": "ENGL",
+        "number": "357",
+        "section": "C100",
+        "title": "Studies in Canadian Literature since 1920",
+        "bookTitle": "Monkey Beach (2001), Robinson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780676973228"
+    },
+    {
+        "dept": "ENGL",
+        "number": "383",
+        "section": "D100",
+        "title": "Studies in Popular Literature and Culture",
+        "bookTitle": "Elana Levine and Lisa Parks, eds. Undead TV: Essays on Buffy the Vampire Slayer.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780822340430"
+    },
+    {
+        "dept": "ENGL",
+        "number": "831",
+        "section": "G100",
+        "title": "Studies in Early Modern Literature",
+        "bookTitle": "More, Thomas. Utopia. A Broadview Anthology of British Literature. Ed., Joseph Black. Broadview Press, 2010.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199535743"
+    },
+    {
+        "dept": "ENGL",
+        "number": "831",
+        "section": "G100",
+        "title": "Studies in Early Modern Literature",
+        "bookTitle": "Spenser, Edmund. The Faerie Queene Book V. Ed., Abraham Stoll. New York: Hackett Publishing, 2006.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "087220801"
+    },
+    {
+        "dept": "ENGL",
+        "number": "114W",
+        "section": "C100",
+        "title": "Language and Purpose",
+        "bookTitle": "Norton Reader (Shorter, 14th ed.), Peterson et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780393617412"
+    },
+    {
+        "dept": "ENGL",
+        "number": "114W",
+        "section": "C100",
+        "title": "Language and Purpose",
+        "bookTitle": "Voicing the Essay: Reading and Writing for Depth (2013), Whatley.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913524"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "Shakespeare, King Lear (Oxford)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199535828"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "Shelley, Frankenstein (Broadview)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781554811038"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "Wells, The War of the Worlds (Broadview)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551113531"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "Remarque, All Quiet on the Western Front (Ballatine)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780449213940"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "Moore and Gibbons, Watchmen (DC Comics)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781401245252"
+    },
+    {
+        "dept": "ENGL",
+        "number": "115W",
+        "section": "D100",
+        "title": "Literature and Culture",
+        "bookTitle": "McCarthy, The Road (Vintage)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780307387899"
+    },
+    {
+        "dept": "ENGL",
+        "number": "199W",
+        "section": "C100",
+        "title": "Introduction to University Writing",
+        "bookTitle": "Academic Writing: Writing and Reading in the Disciplines (2002, 3rd ed.), Giltrow.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551113951"
+    },
+    {
+        "dept": "ENGL",
+        "number": "199W",
+        "section": "C100",
+        "title": "Introduction to University Writing",
+        "bookTitle": "Academic Reading: Reading and Writing in the Disciplines (2002, 2nd ed.), Giltrow.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551113937"
+    },
+    {
+        "dept": "ENGL",
+        "number": "199W",
+        "section": "D100",
+        "title": "Introduction to University Writing",
+        "bookTitle": "Giltrow, et al., Academic Writing: An Introduction, 3rd ed., 2014; Broadview",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781554811878"
+    },
+    {
+        "dept": "ENGL",
+        "number": "199W",
+        "section": "D200",
+        "title": "Introduction to University Writing",
+        "bookTitle": "Giltrow, et al., Academic Writing: An Introduction, 3rd ed., 2014; Broadview",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781554811878"
+    },
+    {
+        "dept": "ENGL",
+        "number": "199W",
+        "section": "E100",
+        "title": "Introduction to University Writing",
+        "bookTitle": "Janet Giltrow et al, Academic Writing: An Introduction, 3rd ed., 2014; Broadview.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781554811878"
+    },
+    {
+        "dept": "ENGL",
+        "number": "410W",
+        "section": "J100",
+        "title": "Topics in Early Modern English Non-Dramatic Literature",
+        "bookTitle": "Milton, John. Paradise Lost. Oxford World Classics. Ed., Stephen Orgel and Jonathan Goldberg. Oxford University Press, 2008.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199535743"
+    },
+    {
+        "dept": "ENGL",
+        "number": "410W",
+        "section": "J100",
+        "title": "Topics in Early Modern English Non-Dramatic Literature",
+        "bookTitle": "More, Thomas. Utopia. A Broadview Anthology of British Literature. Ed., Joseph Black. Broadview Press, 2010.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551119663"
+    },
+    {
+        "dept": "ENGL",
+        "number": "410W",
+        "section": "J100",
+        "title": "Topics in Early Modern English Non-Dramatic Literature",
+        "bookTitle": "Spenser, Edmund. The Faerie Queene Book V. Ed., Abraham Stoll. New York: Hackett Publishing, 2006.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "087220801"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "Cather, Willa. My &Aacute;ntonia",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780486282404"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "---. The Professor&rsquo;s House",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781844083763"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "---. Death Comes for the Archbishop",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780679728894"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "Faulkner, William. The Sound and the Fury",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780679732242"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "---. Absalom, Absalom!",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780679732181"
+    },
+    {
+        "dept": "ENGL",
+        "number": "449W",
+        "section": "D100",
+        "title": "Topics in American Literature since 1900",
+        "bookTitle": "---. Go Down, Moses",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780679732174"
+    },
+    {
+        "dept": "ENGL",
+        "number": "472W",
+        "section": "D100",
+        "title": "Advanced Creative Writing",
+        "bookTitle": "Diaz, Junot. Drown. Riverhead, 2002.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781573226066"
+    },
+    {
+        "dept": "ENGL",
+        "number": "472W",
+        "section": "D100",
+        "title": "Advanced Creative Writing",
+        "bookTitle": "Gardner, John. The Art of Fiction: Notes on Craft for Young Writers. Vintage, 1991.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780679734031"
+    },
+    {
+        "dept": "ENGL",
+        "number": "472W",
+        "section": "D100",
+        "title": "Advanced Creative Writing",
+        "bookTitle": "Hempel, Amy. The Collected Stories of Amy Hempel. Scribner, 2007.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780743291637"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "The Tale of Tom Kitten (2002), Beatrix",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780723247777"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "The Amazing Maurice and His Educated Rodents (2011), Pratchett",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780552562928"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "Warriors into the Wild (2003), Hunter.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780062366962"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "The Mouse and his Child (2001), Hoban",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780439098267"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "The Cricket in Times Square (2008), Selden.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780312380038"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "Mrs. Frisby and the Rats of Nimh (1986), O'Brian",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780689710681"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "Lionboy (2004), Corder.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780142402269"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "I Was A Rat! (2002), Pullman.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780440416616"
+    },
+    {
+        "dept": "ENGL",
+        "number": "487W",
+        "section": "C100",
+        "title": "Topics in Children's Literature",
+        "bookTitle": "The Witches (2013), Dahl.Not available at the SFU Bookstore. Purchasing instructions will be listedon Canvas.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780141346410"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D010",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D011",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D012",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D013",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D014",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D015",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D100",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D200",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D300",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D400",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D500",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D600",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D700",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D800",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "D900",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "E100",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FAL",
+        "number": "X99",
+        "section": "E200",
+        "title": "Foundations of Academic Literacy",
+        "bookTitle": "Marshall, S. (2012). Academic writing: Making the transition. Toronto, Ontario, Canada: Pearson Education.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780133980493"
+    },
+    {
+        "dept": "FNST",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Anahareo, Devil in Deerskins (U Manitoba P, 2014)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887557651"
+    },
+    {
+        "dept": "FNST",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Maria Campbell, Halfbreed (1983)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780887801167"
+    },
+    {
+        "dept": "FNST",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Eden Robinson, The Son of a Trickster (Knopf 2017)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780345810786"
+    },
+    {
+        "dept": "FNST",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Sean A. Tinsley &amp; Rachel A. Qitsualik, Ajjiit: Dark Dreams of the Ancient Arctic, (2011).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781926569307"
+    },
+    {
+        "dept": "FNST",
+        "number": "226",
+        "section": "E100",
+        "title": "STT-Indigenous Writing: Neglected Now Celebrated",
+        "bookTitle": "Readings will be provided by the instructors and be available via SFU CANVAS, on-line e-books, on reserve in the library, or in-class.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "0"
+    },
+    {
+        "dept": "FNST",
+        "number": "332",
+        "section": "D100",
+        "title": "Ethnobotany of British Columbia First Nations",
+        "bookTitle": "Plants of Coastal British Columbia (REVISED edition) by Jim Pojar and Andy MacKinnon (Eds.). 2005. Lone Pine Publishing.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551055305"
+    },
+    {
+        "dept": "FNST",
+        "number": "201W",
+        "section": "C100",
+        "title": "Canadian Aboriginal Peoples' Perspectives on History",
+        "bookTitle": "Decolonizing Methodologies: Research and indigenous Peoples (2nd ed., 2012), Smith.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781848139503"
+    },
+    {
+        "dept": "FPA",
+        "number": "104",
+        "section": "C100",
+        "title": "Music Fundamentals",
+        "bookTitle": "Basic Organization of Music (2010, 4th ed.), Danielson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780973991727"
+    },
+    {
+        "dept": "FREN",
+        "number": "441",
+        "section": "D100",
+        "title": "Topics in French Literature from the Middle Ages to the Eighteenth Century (pre-1789)",
+        "bookTitle": "Corneille, Pierre. Le Cid. Bibliolyc&eacute;e. Paris: Hachette &eacute;ducation, 2005.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978201169121"
+    },
+    {
+        "dept": "FREN",
+        "number": "441",
+        "section": "D100",
+        "title": "Topics in French Literature from the Middle Ages to the Eighteenth Century (pre-1789)",
+        "bookTitle": "Racine, Jean. B&eacute;r&eacute;nice. Bibliolyc&eacute;e. Paris: Hachette &eacute;ducation, 2003.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978201168702"
+    },
+    {
+        "dept": "FREN",
+        "number": "441",
+        "section": "D100",
+        "title": "Topics in French Literature from the Middle Ages to the Eighteenth Century (pre-1789)",
+        "bookTitle": "Moli&egrave;re. Le Bourgeois gentilhomme. Paris: Gallimard, 1998.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978207040081"
+    },
+    {
+        "dept": "GEOG",
+        "number": "100",
+        "section": "C100",
+        "title": "Our World: Introducing Human Geography",
+        "bookTitle": "Human Geography: Places and Regions in Global Context (5th ed., 2015), Knox, Marston &amp; Nash",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780134030883"
+    },
+    {
+        "dept": "GEOG",
+        "number": "162",
+        "section": "C100",
+        "title": "Canada",
+        "bookTitle": "The Regional Geography of Canada (2014.), Bone",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199002429"
+    },
+    {
+        "dept": "GEOG",
+        "number": "264",
+        "section": "C100",
+        "title": "Canadian Cities",
+        "bookTitle": "Canadian Cities in Transition (2015), Filion et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199008186"
+    },
+    {
+        "dept": "GERM",
+        "number": "104",
+        "section": "C100",
+        "title": "German for Reading Knowledge I",
+        "bookTitle": "Reading German II Lesekurs Deutsch (2009), RocheCompanion textbook website is http://www.deutsch-uni.com",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551303581"
+    },
+    {
+        "dept": "GERM",
+        "number": "104",
+        "section": "C100",
+        "title": "German for Reading Knowledge I",
+        "bookTitle": "Collins German Dictionary (2007)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780061260483"
+    },
+    {
+        "dept": "GERO",
+        "number": "300",
+        "section": "C100",
+        "title": "Introduction to Gerontology",
+        "bookTitle": "Aging in Contemporary Canada (2nd Ed.),Chappell et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780132018739"
+    },
+    {
+        "dept": "GERO",
+        "number": "302",
+        "section": "C100",
+        "title": "Health Promotion and Aging",
+        "bookTitle": "Fact Book on Aging in British Columbia and Canada (6th Eds), Wister*The textbook will not be available from the bookstore. This textbook ban be purchased online through SFU Document Solutions: http://opentextbook.docsol.sfu.ca/store/product/ctb1002-01/Since the textbook is used in the first week of our online course, it is important for you to order the textbook as soon as possible.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780864913708"
+    },
+    {
+        "dept": "GERO",
+        "number": "420",
+        "section": "C100",
+        "title": "Sociology of Aging",
+        "bookTitle": "Aging as a Social Process: Canadian Perspectives (6th Ed.), Wister &amp; McPherson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195444926"
+    },
+    {
+        "dept": "GSWS",
+        "number": "101",
+        "section": "C100",
+        "title": "Gender Talk",
+        "bookTitle": "Gendering the Vertical Mosaic: Feminist Perspectives on Canadian Society (2005, 2nd Ed.), Hamilton",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780131473713"
+    },
+    {
+        "dept": "GSWS",
+        "number": "204",
+        "section": "C100",
+        "title": "Sex and the City",
+        "bookTitle": "Times Square Red, Times Square Blue (1999), Delaney",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780814719206"
+    },
+    {
+        "dept": "GSWS",
+        "number": "319",
+        "section": "C100",
+        "title": "Special Topics in Gender, Sexuality, and Women's Studies",
+        "bookTitle": "About Canada: Disability Rights (2012), Sienstra.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552664629"
+    },
+    {
+        "dept": "GSWS",
+        "number": "319",
+        "section": "C100",
+        "title": "Special Topics in Gender, Sexuality, and Women's Studies",
+        "bookTitle": "Cockeyed: A Memoir, Public Affairs (2006), Knighton.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780143051855"
+    },
+    {
+        "dept": "HIST",
+        "number": "339",
+        "section": "C100",
+        "title": "The British Empire and Commonwealth",
+        "bookTitle": "The British Empire: Sunrise to Sunset (2013, 2nd ed.), Levine.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781408269206"
+    },
+    {
+        "dept": "HIST",
+        "number": "339",
+        "section": "C100",
+        "title": "The British Empire and Commonwealth",
+        "bookTitle": "Forgotten Armies - Britian's Asian Empire &amp; the War with Japan (2005), Harper &amp; Bayly.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780140293319"
+    },
+    {
+        "dept": "HSCI",
+        "number": "100",
+        "section": "D100",
+        "title": "Human Biology",
+        "bookTitle": "Goldacre, Ben. 2011. Bad Science: Quacks, Hacks and Big Pharma Flacks. Emblem Editions. (pbk.)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780771035791"
+    },
+    {
+        "dept": "HSCI",
+        "number": "160",
+        "section": "D100",
+        "title": "Global Perspectives on Health",
+        "bookTitle": "Textbook: Richard Skolnik, Global Health 101, ThirdEdition http://www.jblearning.com/catalog/9781284050547/",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781284050547"
+    },
+    {
+        "dept": "HSCI",
+        "number": "330",
+        "section": "C100",
+        "title": "Exploratory Strategies in Epidemiology",
+        "bookTitle": "ActiveEpi - Companion Textbook (2nd Ed), Kleinbaum et al.* Electronic version is free of charge through SFU Library",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781461454274"
+    },
+    {
+        "dept": "HSCI",
+        "number": "439",
+        "section": "D100",
+        "title": "Pathogenesis of Human and Animal Viral Infectious Diseases",
+        "bookTitle": "Michael G. Katze, et al., Ed.Viral Pathogenesis. From Basic to System Biology.3rd Edition. Academic Press, 2016. and various original articles (&lt;2 articles / week) provided by the instructor through Canvas",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780128009642"
+    },
+    {
+        "dept": "HSCI",
+        "number": "471",
+        "section": "C100",
+        "title": "Special Topics in Health Sciences I",
+        "bookTitle": "Guide to Health Informatics 3rd Edition, Coiera eBook available: https://www.crcpress.com/Guide-to-Health-Informatics-Third-Edition/Coiera/p/book/9781444170498",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781444170498"
+    },
+    {
+        "dept": "HUM",
+        "number": "102W",
+        "section": "C100",
+        "title": "Classical Mythology",
+        "bookTitle": "Homer The Odyssey (1996), Fagles",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780140268867"
+    },
+    {
+        "dept": "HUM",
+        "number": "102W",
+        "section": "C100",
+        "title": "Classical Mythology",
+        "bookTitle": "Homer The Illiad (1990), Fagles",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780140445923"
+    },
+    {
+        "dept": "HUM",
+        "number": "102W",
+        "section": "C100",
+        "title": "Classical Mythology",
+        "bookTitle": "Greek Tragedies Vol. 1 (3rd Ed.), Griffith et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780226035284"
+    },
+    {
+        "dept": "HUM",
+        "number": "102W",
+        "section": "C100",
+        "title": "Classical Mythology",
+        "bookTitle": "Homeric Hymns (1995), Shelmerdine",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781585100194"
+    },
+    {
+        "dept": "HUM",
+        "number": "102W",
+        "section": "C100",
+        "title": "Classical Mythology",
+        "bookTitle": "Hesiod's Theogony (1987), Caldwell",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780941051002"
+    },
+    {
+        "dept": "IAT",
+        "number": "167",
+        "section": "D100",
+        "title": "Digital Games: Genre, Structure, Programming and Play",
+        "bookTitle": "&ldquo;Learning Processing: A Beginner's Guide to Programming Images, Animation &amp; Interaction&rdquo; (2015) by Daniel Shiffman;2nd Edition; Morgan Kaufmann",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780123944436"
+    },
+    {
+        "dept": "IAT",
+        "number": "208",
+        "section": "D100",
+        "title": "Drawing as Inquiry",
+        "bookTitle": "&ldquo;Drawing for the Absolute Beginner: A Clear and Easy Guide to Successful Drawing&rdquo; (2006) by Mark and Mary Willenbrink; North Light Books (Fraser)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781581807899"
+    },
+    {
+        "dept": "IAT",
+        "number": "235",
+        "section": "D100",
+        "title": "Information Design",
+        "bookTitle": "Information Design Workbook: Graphic approaches, solutions, and inspiration + 30 case studies (2010) by Kim Baer; Reprint Edition; Rockport Publishers",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781592536276"
+    },
+    {
+        "dept": "IAT",
+        "number": "235",
+        "section": "D100",
+        "title": "Information Design",
+        "bookTitle": "An Introduction to Information Design (2014) by Andy Ellison, Kathryn Coates, Laurence King Publishing",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781780673387"
+    },
+    {
+        "dept": "IAT",
+        "number": "265",
+        "section": "D100",
+        "title": "Multimedia Programming for Art and Design",
+        "bookTitle": "&ldquo;The Nature of Code&rdquo; (2012) by Daniel Shiffman; Nature of CodeElectronic edition is accessible for free for online reading or purchased for $10 at: http://natureofcode.com/book/",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780985930806"
+    },
+    {
+        "dept": "IAT",
+        "number": "312",
+        "section": "D100",
+        "title": "Foundations of Game Design",
+        "bookTitle": "\"Rules of Play: Game Design Fundamentals\" (2003) by Katie Salen Tekinbas, Eric Zimmerman; 1st Edition; MIT PressThis text can be accessed online via the SFU Library; although only 5 users can view this simultaneously.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780262240451"
+    },
+    {
+        "dept": "IAT",
+        "number": "312",
+        "section": "D100",
+        "title": "Foundations of Game Design",
+        "bookTitle": "\"Fundamentals of Game Design\" (2013) by Ernest Adams; 3rd Edition; New RidersThis text can be accessed online via the SFU Library; although only 5 users can view this simultaneously.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321929679"
+    },
+    {
+        "dept": "IAT",
+        "number": "313",
+        "section": "C100",
+        "title": "Narrative and New Media",
+        "bookTitle": "Digital Storytelling: A Creator's Guide to Interactive Entertainment (3rd ed.), Miller.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415836944"
+    },
+    {
+        "dept": "IAT",
+        "number": "313",
+        "section": "C100",
+        "title": "Narrative and New Media",
+        "bookTitle": "The Cambridge Introduction to Narrative (2nd ed.), Abbott.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780521715157"
+    },
+    {
+        "dept": "IAT",
+        "number": "343",
+        "section": "D100",
+        "title": "Animation",
+        "bookTitle": "&ldquo;The Art of 3-D Computer Animation and Effects&rdquo; (2009) by Isaac Victor Kerlow; 4th Edition; Wiley",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780470084908"
+    },
+    {
+        "dept": "IAT",
+        "number": "445",
+        "section": "D100",
+        "title": "Immersive Environments",
+        "bookTitle": "Jerald, J. (2016). The VR Book: Human-Centered Design for Virtual Reality. New York, NY, USA: Association for Computing Machinery and Morgan &amp; Claypool. doi: 10.1145/2792790 (available online through SFU library)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781970001129"
+    },
+    {
+        "dept": "IAT",
+        "number": "881",
+        "section": "G200",
+        "title": "Special Topics I",
+        "bookTitle": "Marie T., Banich, Rebecca, J., Compton (2010). Cognitive Neuroscience. 3rd ed.Wadsworth. (textbook)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780840032980"
+    },
+    {
+        "dept": "IAT",
+        "number": "103W",
+        "section": "D100",
+        "title": "Design Communication and Collaboration",
+        "bookTitle": "\"They Say / I Say: The Moves that Matter in Academic Writing\" (2014) by Gerald Graff, Cathy Birkenstein; 3rd Edition; W.W. Norton &amp; Company",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780393935844"
+    },
+    {
+        "dept": "IAT",
+        "number": "103W",
+        "section": "D100",
+        "title": "Design Communication and Collaboration",
+        "bookTitle": "\"Emotional Design: Why We Love or Hate Everyday Things\" (2005) by Don Norman; 1st Edition; Basic Books",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780465051366"
+    },
+    {
+        "dept": "JAPN",
+        "number": "100",
+        "section": "C100",
+        "title": "Introduction to Japanese I",
+        "bookTitle": "Genki Volume I: An Integrated Course in Elementary Japanese (2nd ed.), Banno et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9784789014403"
+    },
+    {
+        "dept": "JAPN",
+        "number": "100",
+        "section": "C100",
+        "title": "Introduction to Japanese I",
+        "bookTitle": "Genki Volume I, Workbook: An Integrated Course in Elementary Japanese (2nd ed.), Banno et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9784789014410"
+    },
+    {
+        "dept": "JAPN",
+        "number": "101",
+        "section": "D100",
+        "title": "Introduction to Japanese II",
+        "bookTitle": "Banno, E., Y. Ohno, Y. Sakane, and C. Shinagawa, eds. GENKI Volume I: An Integrated Course in Elementary Japanese.  The Japan Times, 2011.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9784789014403"
+    },
+    {
+        "dept": "JAPN",
+        "number": "101",
+        "section": "D100",
+        "title": "Introduction to Japanese II",
+        "bookTitle": "Banno, E., Y. Ohno, Y. Sakane, and C. Shinagawa, eds. GENKI Volume I, Workbook: An Integrated Course in Elementary  Japanese. The Japan Times, 2011.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9784789014410"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "C100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Building a Better World: An Introduction to Trade Unionism in Canada (3rd Eds.), Black et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552667873"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "C100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Rethinking the Politics of Labour in Canada, Ross &amp; Savage",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552664780"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "C100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Work and Labour in Canada: Critical Issues (2nd Eds.), Jackson &amp; Clement",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781551303666"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "D100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Barbara Ehrenreich, Nickel and Dimed: On Not Getting by in America (Owl, 2002)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780312626686"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "D100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Michael Zweig, The Working Class Majority: America's Best Kept Secret (Cornell University Press, 2001)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780801477331"
+    },
+    {
+        "dept": "LBST",
+        "number": "101",
+        "section": "D100",
+        "title": "Introducing Labour Studies",
+        "bookTitle": "Stephanie Ross, Larry Savage, Errol Black and Jim Silver, Building a Better World: an Introduction to Trade Unionism in Canada, 3rd Edition (Fernwood, 2015)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781552667873"
+    },
+    {
+        "dept": "LBST",
+        "number": "330",
+        "section": "D300",
+        "title": "Selected Topics in Labour Studies",
+        "bookTitle": "Jean Allain (2012) The Legal Understanding of Slavery: From the Historical to the Contemporary. Oxford, U.K.: Oxford University Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199660469"
+    },
+    {
+        "dept": "LBST",
+        "number": "330",
+        "section": "D300",
+        "title": "Selected Topics in Labour Studies",
+        "bookTitle": "Mary C. Burke (2013) Human Trafficking: Interdisciplinary Perspectives. New York: N.Y. Routledge.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415892254"
+    },
+    {
+        "dept": "LBST",
+        "number": "330",
+        "section": "D300",
+        "title": "Selected Topics in Labour Studies",
+        "bookTitle": "Christen Van Den Anker (2004) The Political Economy of the New Slavery. New York, N.Y.: Palgrave.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781403915238"
+    },
+    {
+        "dept": "LBST",
+        "number": "330",
+        "section": "D300",
+        "title": "Selected Topics in Labour Studies",
+        "bookTitle": "Jean Allain (2012) Slavery in International Law: Of Human Exploitation and Trafficking. Leiden, Boston: Martinus Nijhoff Publishers.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9789004186958"
+    },
+    {
+        "dept": "LING",
+        "number": "222",
+        "section": "D100",
+        "title": "Introduction to Syntax",
+        "bookTitle": "Tallerman, Maggie, 2015. Understanding Syntax. Routledge. (4th ed.).",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415746984"
+    },
+    {
+        "dept": "MACM",
+        "number": "316",
+        "section": "D100",
+        "title": "Numerical Analysis I",
+        "bookTitle": "Numerical Analysis10/EBurden and Faires Nelson Canada",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781305253667"
+    },
+    {
+        "dept": "MATH",
+        "number": "150",
+        "section": "C100",
+        "title": "Calculus I with Review",
+        "bookTitle": "Calculus Early Transcendentals (2012),Stewart8th Bundle Edition",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781305597624"
+    },
+    {
+        "dept": "MATH",
+        "number": "150",
+        "section": "D100",
+        "title": "Calculus I with Review",
+        "bookTitle": "Calculus: Early Transcendentals, 8th Edition Textbook, by James Stewart, packaged with Multi-term Enhanced WebAssign [Text + EWA/eBook]-Available through the SFU BookstoreThis package can also be purchased directly from the publisher (with free shipping) at the following link:http://nelsonbrain.com/micro/SFU/Math150 *Please Note: If you already purchased the package for Math 150 or 151 in Fall 2016, do not purchase again!*",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781305597624"
+    },
+    {
+        "dept": "MATH",
+        "number": "152",
+        "section": "D100",
+        "title": "Calculus II",
+        "bookTitle": "Calculus: Early Transcendentals, 8th Edition Textbook, by James Stewart, packaged with Multi-term Enhanced WebAssign [Text + EWA/eBook]-Available through the SFU BookstoreThis package can also be purchased directly from the publisher (with free shipping) at the following link:http://www.nelsonbrain.com/micro/SFU-Math152*Please Note: If you already purchased the package for Math 150 or 151 in Fall 2016, do not purchase again!*",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781305597624"
+    },
+    {
+        "dept": "MATH",
+        "number": "157",
+        "section": "D100",
+        "title": "Calculus I for the Social Sciences",
+        "bookTitle": "Applied Calculus for the Managerial, Life and Social Sciences First Canadian Edition 2nd Reprint (Enhanced) Tan, Menz and Ashlock Nelson Education",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176609955"
+    },
+    {
+        "dept": "MATH",
+        "number": "190",
+        "section": "C100",
+        "title": "Principles of Mathematics for Teachers",
+        "bookTitle": "Reconceptualizing Mathematics for Elementary School Teachers 3rd Edition. (2017), Sowder et al.Either the loose-leaf textbook or hardcover can be used for this course",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781464193330"
+    },
+    {
+        "dept": "MATH",
+        "number": "232",
+        "section": "D100",
+        "title": "Applied Linear Algebra",
+        "bookTitle": "Contemporary Linear AlgebraHoward Anton and Robert C. BusbyWiley",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780471163626"
+    },
+    {
+        "dept": "MATH",
+        "number": "240",
+        "section": "D100",
+        "title": "Algebra I: Linear Algebra",
+        "bookTitle": "Linear Algebra and Its Applications5/ELay, Steven R.; Lay, David C.; McDonald, Judith; McDonald, Judi J.Pearson Education",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321982384"
+    },
+    {
+        "dept": "MATH",
+        "number": "251",
+        "section": "D100",
+        "title": "Calculus III",
+        "bookTitle": "Calculus: Early Transcendentals, 8th Edition Textbook, by James Stewart, packaged with Multi-term Enhanced WebAssign [Text + EWA/eBook]-Available through the SFU BookstoreThis package can also be purchased directly from the publisher (with free shipping) at the following link:http://nelsonbrain.com/micro/SFU/Math251*Please Note: If you already purchased the package for 152in Fall 2016, do not purchase again!*",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781305597624"
+    },
+    {
+        "dept": "MATH",
+        "number": "254",
+        "section": "D100",
+        "title": "Vector and Complex Analysis for Applied Sciences",
+        "bookTitle": "Complex Analysis Erwin KreyszigWiley",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781119937395"
+    },
+    {
+        "dept": "MATH",
+        "number": "310",
+        "section": "D100",
+        "title": "Introduction to Ordinary Differential Equations",
+        "bookTitle": "Elementary Differential Equations and Boundary Value ProblemsWilliam E. Boyce and Richard C. DiPrima10/E, 2013; Wiley",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780470458310"
+    },
+    {
+        "dept": "MATH",
+        "number": "338",
+        "section": "D100",
+        "title": "Advanced Linear Algebra",
+        "bookTitle": "Linear Algebra (4th edition)Friedberg, Insel, SpencePublisher: Pearson; 4 edition (Nov. 11 2002)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780130084514"
+    },
+    {
+        "dept": "MATH",
+        "number": "342",
+        "section": "D100",
+        "title": "Elementary Number Theory",
+        "bookTitle": "Elementary Number Theory and Its ApplicationsKenneth Rosen6th Edition; 2011Pearson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780321500311"
+    },
+    {
+        "dept": "MATH",
+        "number": "470",
+        "section": "D100",
+        "title": "Variational Calculus",
+        "bookTitle": "A Primer on the Calculus of Variations and Optimal Control TheoryMike Mesterton-GibbonsAMS; 2009",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780821847725"
+    },
+    {
+        "dept": "MATH",
+        "number": "604",
+        "section": "G001",
+        "title": "Geometry",
+        "bookTitle": "Sinclair, N., Pimm, D., &amp; Skelin, M. (2012). Developing Essential Understanding of Geometry for Teaching Mathematics in Grades 9-12. Essential Understanding Series. Reston, VA: NCTM.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "0873536924"
+    },
+    {
+        "dept": "MBB",
+        "number": "200",
+        "section": "D100",
+        "title": "Selected Topics in Molecular Biology and Biochemistry",
+        "bookTitle": "Python for Biologists. Martin Jones. 2013. CreateSpace Independent Publishing Platform.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781492346135"
+    },
+    {
+        "dept": "MBB",
+        "number": "308",
+        "section": "D100",
+        "title": "Molecular Biology Laboratory",
+        "bookTitle": "Weaver, R.F. (2012) Molecular Biology, (5th Ed.) McGraw Hill. Students should have this text from having taken MBB 331.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780073525327"
+    },
+    {
+        "dept": "MBB",
+        "number": "309W",
+        "section": "D100",
+        "title": "Biochemistry Laboratory",
+        "bookTitle": "Pinker, Steven. The Sense of Style. The thinking person's guide to writing in the 21st century. Viking: 2014.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780670025855"
+    },
+    {
+        "dept": "PHIL",
+        "number": "321",
+        "section": "D100",
+        "title": "Topics in Moral Philosophy",
+        "bookTitle": "Moral Issues in Business, by Shaw and Barry (2015 edition, but some of the previous editions will also do)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "1285874323"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Dover, Goodman and Hillebrand (2014) Routledge companion to Intelligence Studies Routledge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415507523"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Johnson (2009) Handbook of Intelligence Studies Routledge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415777834"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Richards (2010) The Art and Science of Intelligence Analysis OUP",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199578450"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Dover, Goodman and Hillebrand (2014) Routledge companion to Intelligence Studies Routledge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415507523"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Johnson (2009) Handbook of Intelligence Studies Routledge",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415777834"
+    },
+    {
+        "dept": "POL",
+        "number": "349",
+        "section": "D200",
+        "title": "Selected Topics in International Relations",
+        "bookTitle": "Richards (2010) The Art and Science of Intelligence Analysis OUP",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199578450"
+    },
+    {
+        "dept": "POL",
+        "number": "359",
+        "section": "D100",
+        "title": "Selected Topics in Governance",
+        "bookTitle": "Berman, Evan M. and XiaoHu Wang. 2012. Exercising Essential Statistics.3rd ed. LA: Sage, CQ Press. (Available at the bookstore)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781608716760"
+    },
+    {
+        "dept": "POL",
+        "number": "449",
+        "section": "D100",
+        "title": "Selected Topics in International Relations II",
+        "bookTitle": "David Yost, NATO's Balancing Act, U.S. Institute of Peace Press, 2014. 480 p.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781601272027"
+    },
+    {
+        "dept": "PSYC",
+        "number": "268",
+        "section": "C100",
+        "title": "Introduction to Law and Psychology",
+        "bookTitle": "Forensic Psychology and the Law - A Canadian Perspective (2014), Roesch et. al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781118161753"
+    },
+    {
+        "dept": "PSYC",
+        "number": "280",
+        "section": "C100",
+        "title": "Introduction to Biological Psychology",
+        "bookTitle": "Behavioral Neuroscience (8th ed.), Breedlove &amp; Watson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781605354187"
+    },
+    {
+        "dept": "PSYC",
+        "number": "362",
+        "section": "D100",
+        "title": "Close Relationships",
+        "bookTitle": "Bradbury, T. N., &amp; Karney, B. Intimate Relationships. 2nd edition. WW Norton &amp; Company.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780393920239"
+    },
+    {
+        "dept": "PSYC",
+        "number": "388",
+        "section": "C100",
+        "title": "Biological Rhythms and Sleep",
+        "bookTitle": "Rhythms of Life (2005), Foster &amp; Kreitzman.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780300109696"
+    },
+    {
+        "dept": "PSYC",
+        "number": "201W",
+        "section": "C100",
+        "title": "Introduction to Research Methods in Psychology",
+        "bookTitle": "Research Methods (2nd ed.), Passer.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781464106002"
+    },
+    {
+        "dept": "PSYC",
+        "number": "201W",
+        "section": "D100",
+        "title": "Introduction to Research Methods in Psychology",
+        "bookTitle": "Custom Edition: Loose leaf version:Christensen, L.B., Johnson, R.B., and Turner, L.A. Research Methods, Design, and Analysis. Boston: Allyn &amp; Bacon.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781323353240"
+    },
+    {
+        "dept": "PUB",
+        "number": "372",
+        "section": "C100",
+        "title": "The Publishing Process",
+        "bookTitle": "The Elements of Typographic Style Version 4.0 (4th Ed), Bringhurst",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780881792126"
+    },
+    {
+        "dept": "SA",
+        "number": "101",
+        "section": "C100",
+        "title": "Introduction to Anthropology (A)",
+        "bookTitle": "Anatomy of a Conflict: Identity, Knowledge And Emotion In Old-Growth Forests, Satterfield",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780774808934"
+    },
+    {
+        "dept": "SA",
+        "number": "101",
+        "section": "C100",
+        "title": "Introduction to Anthropology (A)",
+        "bookTitle": "Neither Man Nor Woman - The Hijras Of India (2nd Ed.), Nanda",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780534509033"
+    },
+    {
+        "dept": "SA",
+        "number": "150",
+        "section": "C100",
+        "title": "Introduction to Sociology (S)",
+        "bookTitle": "New Society (8th Ed.), Brym",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780176570064"
+    },
+    {
+        "dept": "SA",
+        "number": "203",
+        "section": "C100",
+        "title": "Violence in War and Peace (SA)",
+        "bookTitle": "Violence in War and Peace: An Anthology (1st Ed.), Scheper-Hughes et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780631223498"
+    },
+    {
+        "dept": "SA",
+        "number": "218",
+        "section": "D100",
+        "title": "Illness, Culture and Society (SA)",
+        "bookTitle": "Fadiman, Anne. (1997).The Spirit Catches You And You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures. New York.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780374533403"
+    },
+    {
+        "dept": "SA",
+        "number": "250",
+        "section": "D100",
+        "title": "Introduction to Sociological Theory (S)",
+        "bookTitle": "George Ritzer and Jeffery Stepnisky. 2014. Sociological Theory, 9th edition, Toronto: McGraw-Hill.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780078027017"
+    },
+    {
+        "dept": "SA",
+        "number": "250",
+        "section": "D100",
+        "title": "Introduction to Sociological Theory (S)",
+        "bookTitle": "George Ritzer and Jeffery Stepnisky. 2014. Sociological Theory, 9th edition, Toronto: McGraw-Hill.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780078027017"
+    },
+    {
+        "dept": "SA",
+        "number": "321",
+        "section": "D100",
+        "title": "Social Movements (S)",
+        "bookTitle": "Staggenborg, Suzanne, and Howard Ramos. 2016. Social Movements. Third Edition. Don Mills, ON: Oxford University Press. (Weeks 1-4)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "978019901397"
+    },
+    {
+        "dept": "SA",
+        "number": "321",
+        "section": "D100",
+        "title": "Social Movements (S)",
+        "bookTitle": "McAdam, Doug. 1999 [1982]. Political Process and the Development of Black Insurgency, 1930-1970. Second Edition. Chicago: University of Chicago Press. (Weeks 5-7)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780226555539"
+    },
+    {
+        "dept": "SA",
+        "number": "321",
+        "section": "D100",
+        "title": "Social Movements (S)",
+        "bookTitle": "McAdam, Doug, Karina Kloos. 2014. Deeply Divided: Racial Politics and Social Movements in Post-War America. Oxford; New York: Oxford University Press. (Weeks 8-11)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780199937851"
+    },
+    {
+        "dept": "SA",
+        "number": "326",
+        "section": "D900",
+        "title": "Ecology and Social Thought (S)",
+        "bookTitle": "Dunlap, R., Buttel, F.H., Dickens, P., Gijswij, A. (Eds.) (2002)Sociological Theory and the Environment: Classical Foundations, Contemporary Insights.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780742501867"
+    },
+    {
+        "dept": "SA",
+        "number": "359",
+        "section": "E100",
+        "title": "Special Topics in Anthropology (A)",
+        "bookTitle": "Anderson, E. N.; Pearsall, Deborah; Hunn Eugene; Turner, Nancy. (2011). Ethnobiology. Wiley-Blackwell, 2011. [On-line]",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780470547854"
+    },
+    {
+        "dept": "SA",
+        "number": "359",
+        "section": "E100",
+        "title": "Special Topics in Anthropology (A)",
+        "bookTitle": "Anderson, M. Kat. Tending the Wild: Native American Knowledge and the Management ofCalifornia&rsquo;s Natural Resources. University of California Press, 2005. [On-line]",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "97805202804347"
+    },
+    {
+        "dept": "SA",
+        "number": "359",
+        "section": "E100",
+        "title": "Special Topics in Anthropology (A)",
+        "bookTitle": "Cruikshank, Julie. Do Glaciers Listen? Local Knowledge, Colonial Encounters and SocialImagination. UBC Press, 2006. [On-line]",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780774811873"
+    },
+    {
+        "dept": "SA",
+        "number": "363",
+        "section": "J100",
+        "title": "Process of Development and Underdevelopment (SA)",
+        "bookTitle": "McMichael, Philip. (2016). Development and Social Change: A Global Perspective.(6th ed.) London &amp; Thousand Oaks: Sage Publishing.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781452275901"
+    },
+    {
+        "dept": "SA",
+        "number": "363",
+        "section": "J100",
+        "title": "Process of Development and Underdevelopment (SA)",
+        "bookTitle": "Choudry, Aziz and Kapoor, Dip (Eds.) (2013). NGOization: Complicity, Contradictions and Prospects. London &amp; New York: Zed Books.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781780322575"
+    },
+    {
+        "dept": "SA",
+        "number": "365",
+        "section": "E100",
+        "title": "Selected Regional Areas (A)",
+        "bookTitle": "Sismondo, S. (2009). An Introduction to Science and Technology Studies. London: Blackwell Publishers.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781405187657"
+    },
+    {
+        "dept": "SA",
+        "number": "365",
+        "section": "E100",
+        "title": "Selected Regional Areas (A)",
+        "bookTitle": "Traweek, S. (1992). Beamtimes and Lifetimes: The World of High EnergyPhysicists. Harvard University Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780674063488"
+    },
+    {
+        "dept": "SA",
+        "number": "418",
+        "section": "D100",
+        "title": "International Health: Global Policies and Local Realities (SA)",
+        "bookTitle": "Justice, Judith. (1987). Policies, Plans, and People: Culture, Health, and Development in Nepal. University of California Press.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780520067882"
+    },
+    {
+        "dept": "SA",
+        "number": "420",
+        "section": "C100",
+        "title": "Sociology of Aging (S)",
+        "bookTitle": "Aging as a Social Process: Canadian Perspectives (6th Ed.), Wister &amp; McPherson",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780195444926"
+    },
+    {
+        "dept": "STAT",
+        "number": "101",
+        "section": "C100",
+        "title": "Introduction to Statistics",
+        "bookTitle": "The Basic Practice of Statistics (2015), Moore et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781319019334"
+    },
+    {
+        "dept": "STAT",
+        "number": "201",
+        "section": "C100",
+        "title": "Statistics for the Life Sciences",
+        "bookTitle": "The Basic Practice of Statistics (2015), Moore et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781319019334"
+    },
+    {
+        "dept": "STAT",
+        "number": "203",
+        "section": "C100",
+        "title": "Introduction to Statistics for the Social Sciences",
+        "bookTitle": "The Basic Practice of Statistics (2015), Moore et al.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781319019334"
+    },
+    {
+        "dept": "STAT",
+        "number": "270",
+        "section": "C100",
+        "title": "Introduction to Probability and Statistics",
+        "bookTitle": "Intro to Probability and Statistics ( 2nd Custom Ed/2014.), Swartz",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781269737210"
+    },
+    {
+        "dept": "STAT",
+        "number": "270",
+        "section": "D100",
+        "title": "Introduction to Probability and Statistics",
+        "bookTitle": "Introduction to Probability and Statistics, 2nd ed. by Tim Swartz. Publisher: Pearson.",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781269737210"
+    },
+    {
+        "dept": "WL",
+        "number": "203",
+        "section": "C100",
+        "title": "Selected Genres in World Literature",
+        "bookTitle": "Ecocriticism: The Essential Reader,14 edition (2014)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780415508605"
+    },
+    {
+        "dept": "WL",
+        "number": "203",
+        "section": "C100",
+        "title": "Selected Genres in World Literature",
+        "bookTitle": "King of Trees,10 edition (2010)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9780811218665"
+    },
+    {
+        "dept": "WL",
+        "number": "203",
+        "section": "C100",
+        "title": "Selected Genres in World Literature",
+        "bookTitle": "Ten Thousand Things,(1984)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781590170137"
+    },
+    {
+        "dept": "WL",
+        "number": "203",
+        "section": "C100",
+        "title": "Selected Genres in World Literature",
+        "bookTitle": "The Tuner of Silences,12 edition (2012)",
+        "year": "2017",
+        "term": "summer",
+        "isbn": "9781926845951"
+    }
+]
